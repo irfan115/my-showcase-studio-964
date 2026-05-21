@@ -43,7 +43,7 @@ function Index() {
             for ambitious brands.
           </h1>
           <p className="mt-8 max-w-2xl text-lg text-muted-foreground">
-            Twelve years shipping custom themes, WooCommerce stores, membership
+            Eight years shipping custom themes, WooCommerce stores, membership
             platforms, and bespoke plugins. I care about clean code, fast pages,
             and editorial design that actually converts.
           </p>
@@ -69,7 +69,7 @@ function Index() {
         <div className="mx-auto max-w-7xl">
           <div className="flex items-end justify-between mb-10">
             <h2 className="text-3xl md:text-4xl font-serif">Selected work</h2>
-            <span className="text-sm text-muted-foreground">2023 — 2024</span>
+            <span className="text-sm text-muted-foreground">{projects.length} projects · 2023 — 2024</span>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8">
