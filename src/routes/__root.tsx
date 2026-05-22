@@ -81,6 +81,13 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { name: "author", content: "Irfan" },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
+      { property: "og:title", content: "Irfan — Senior WordPress Developer" },
+      { name: "twitter:title", content: "Irfan — Senior WordPress Developer" },
+      { name: "description", content: "A developer portfolio website showcasing WordPress and Shopify projects, deployable to Netlify or GitHub." },
+      { property: "og:description", content: "A developer portfolio website showcasing WordPress and Shopify projects, deployable to Netlify or GitHub." },
+      { name: "twitter:description", content: "A developer portfolio website showcasing WordPress and Shopify projects, deployable to Netlify or GitHub." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/11cfc548-4135-4858-ad89-43faf2fe16ce/id-preview-e903511e--aa589cb9-66ce-435e-bc49-21c9c329953b.lovable.app-1779414401669.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/11cfc548-4135-4858-ad89-43faf2fe16ce/id-preview-e903511e--aa589cb9-66ce-435e-bc49-21c9c329953b.lovable.app-1779414401669.png" },
     ],
 
     links: [
