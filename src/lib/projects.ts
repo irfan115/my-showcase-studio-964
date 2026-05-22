@@ -143,4 +143,16 @@ export const projects: Project[] = [
     description:
       "Australian master distributor for Peleman branded presentation products. Built a store, services, and applications system on WooCommerce with deep product taxonomies and account-based ordering.",
   },
+  {
+    slug: "brava-lingerie",
+    title: "Brava Lingerie",
+    tagline: "Shopify custom theme for a specialist lingerie retailer.",
+    url: "https://www.bravalingerie.com.au/",
+    image: bravalingerie,
+    year: "2024",
+    role: "Shopify Developer",
+    stack: ["Shopify", "Liquid", "JavaScript", "Custom Theme", "Sections Everywhere"],
+    description:
+      "A custom Shopify theme build for a specialist lingerie retailer. Developed bespoke section-based templates, size-guide integrations, and curated collection experiences. Focused on a premium feel that balances accessibility with high-conversion product storytelling.",
+  },
 ];
