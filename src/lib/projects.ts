@@ -8,6 +8,7 @@ import tinypools from "@/assets/project-tinypools.png";
 import goodfood from "@/assets/project-goodfood.png";
 import larsons from "@/assets/project-larsons.png";
 import primegrafix from "@/assets/project-primegrafix.png";
+import bravalingerie from "@/assets/project-bravalingerie.png";
 
 export type Project = {
   slug: string;
